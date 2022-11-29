@@ -1,3 +1,6 @@
+#Files to ignore
+test.md
+
 # Dependency directories
 node_modules/
 jspm_packages/
